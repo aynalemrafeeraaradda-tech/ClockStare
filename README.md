@@ -1,5 +1,3 @@
-# 
-
 <h1 align="center">
   Hey 👋 I'm Kenboni Girma
 </h1>
@@ -18,18 +16,6 @@
 - 🎓 Computer Science student
 - 💻 Focused on learning frontend web development
 - 🎨 Passionate about building clean and user-friendly interfaces
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="YOUR_INSTAGRAM_URL">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
 
 ## 🧠 My Focus Areas
 
@@ -54,4 +40,21 @@
 <h3 align="center">Tools</h3>
 
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="35" />
+  &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="35" />
+</p>
+
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="YOUR_INSTAGRAM_URL">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Animation" width="70%" />
+</p>
